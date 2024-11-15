@@ -10,10 +10,10 @@ Today we're going to implement Swift Charts to build an expense tracking applica
  - Basic knowledge of Swift and SwiftUI
 
 
-# User Story
-- As a millennial with bad spending habits, I would like to see how much I spend
-- As a millennial with bad spending habits, I like to see a breakdown of my spending
-- As a millennial with bad spending habits, I like to see which category I spent the most 
+# Goals
+- Train a model with Core ML
+- Integrate Core ML into our Xcode project
+- Use Core ML in our app
   
 
 
