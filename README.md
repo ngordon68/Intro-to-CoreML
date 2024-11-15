@@ -315,7 +315,7 @@ class ExpenseModel: Identifiable {
 # Resources
 
 - [Documentation](https://developer.apple.com/documentation/coreml/)
-- [Sampme Models](https://developer.apple.com/machine-learning/models/#image)
+- [Sample Models](https://developer.apple.com/machine-learning/models/#image)
 
 
 
