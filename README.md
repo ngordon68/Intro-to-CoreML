@@ -316,6 +316,7 @@ class ExpenseModel: Identifiable {
 
 - [Documentation](https://developer.apple.com/documentation/coreml/)
 - [Sample Models](https://developer.apple.com/machine-learning/models/#image)
+- [Recognizing Objects in Live Capture](https://developer.apple.com/documentation/vision/recognizing-objects-in-live-capture)
 
 
 
