@@ -314,10 +314,8 @@ class ExpenseModel: Identifiable {
 
 # Resources
 
-- [Swift Charts Documentation](https://developer.apple.com/documentation/charts)
-- [Swift Charts Youtube Tutorial](https://www.youtube.com/watch?v=c9XxDjmLT24&t=5356s)
-- [Benia(good friend/great developer](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAADQtd9gBUT-7ZyIaVlitqprHiReWzGIOoRI&keywords=benia%20morgan-ware&origin=RICH_QUERY_SUGGESTION&position=0&searchId=778e2cfd-8784-4931-ae9c-31125442ae19&sid=vNp&spellCorrectionEnabled=false)
+- [Documentation](https://developer.apple.com/documentation/coreml/)
+- [Sampme Models](https://developer.apple.com/machine-learning/models/#image)
 
-- [Linda Lewi)](https://www.linkedin.com/in/linda-lewis-35262333/)
 
 
